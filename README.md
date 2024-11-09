@@ -24,3 +24,14 @@ The *Drone Communication System* leverages flight indicators and real-time data 
 1. Clone this repository:
    ```bash
    git clone https://github.com/Charan-place/Drone_controls_Complete.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd Drone_controls_Complete
+Install dependencies (if applicable):
+
+bash
+Copy code
+npm install
+Follow the project's setup guide to configure network devices and Raspberry Pi modules.
